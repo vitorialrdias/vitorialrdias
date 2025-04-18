@@ -8,15 +8,15 @@
 
 
 ## Hi there 👋
-# I'm Vitoria Dias! 👧
+# I'm **Vitoria Dias**! 👧
 
 Welcome to my GitHub profile!!! Here, you will see my learning in programming 💻
 
 ## 📖 About me
-Technology enthusiast, actually I'm focus in automation and data analysis, but i love web development and mobile development.
-I love watching movies and experiencing new places like restaurants, parks and cultural tours!
+Technology enthusiast, currently focused on **automation** and **data analysis**, but I love **web development** and **mobile development**.  
+I also love watching movies and experiencing new places like restaurants, parks, and cultural tours! 
 
-## 🚀 Look my projects
+## 🚀 Look at my projects
 - [Automation extract data]([link_para_repositorio_1](https://github.com/vitorialrdias/ProjetoEmendasParlamentares))
 - [Generate PDF with Python]([link_para_repositorio_2](https://github.com/vitorialrd/python))
 - [Power BI challenge]([lhttps://github.com/vitorialrdias/dio-desafio-power-bi](https://github.com/vitorialrd/dio-desafio-power-bi))
