@@ -1,100 +1,164 @@
-## 👋 Hi there!
-# I'm **Vitoria Dias** ☁️📊
+<div align="center">
 
-Welcome to my GitHub!  
-Here you’ll find projects focused on **Data Engineering, Cloud Architecture, and Automation**, where I design and implement scalable data solutions.
+# 👋 Hello, I'm Vitoria Dias
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=☁️+Cloud+Data+Engineer;🚀+Building+Scalable+Data+Platforms;⚡+Python+%7C+PySpark+%7C+Airflow;🤖+Exploring+AI+Applied+to+Data" />
 
-## 🚀 About Me
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 
-I’m a **Data Engineer focused on Cloud**, passionate about building **robust, scalable, and reliable data pipelines**.
+### ☁️ Data Engineer • Cloud • Data Pipelines • AI Enthusiast
 
-My experience includes designing **end-to-end data architectures**, from ingestion to consumption, applying best practices in **ETL/ELT, data modeling, and orchestration**.
 
-💡 I currently work with:
-- Data pipelines and automation  
-- Cloud-based data platforms  
-- Large-scale data processing  
-- Workflow orchestration  
+</div>
 
 ---
 
-## 🧠 Tech Stack
+# 🚀 About Me
 
-### 👩‍💻 Languages & Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+I'm a **Cloud Data Engineer** passionate about designing scalable and reliable data solutions.
 
-### 🗄️ Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
+I enjoy transforming raw data into valuable insights by building modern cloud architectures, automated pipelines, and efficient data platforms.
 
-### ☁️ Cloud & Data Platforms
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-### ⚙️ Orchestration & Automation
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+Currently, I'm also expanding my expertise in **Artificial Intelligence applied to Data Engineering**, exploring how AI can optimize data workflows, automate processes, and enhance analytics.
 
 ---
 
-## 🏗️ What I Build
+# 💡 What I'm Working On
 
-- 🔹 **Data Lakes & Medallion Architecture (Bronze, Silver, Gold)**
-- 🔹 **ETL/ELT Pipelines (Batch & Incremental Loads)**
-- 🔹 **Data Modeling (Analytical & Operational)**
-- 🔹 **Automation & RPA for Data Workflows**
-- 🔹 **Cloud Data Solutions (GCP & AWS)**
+☁️ Cloud Data Platforms
 
----
+⚙️ ETL & ELT Pipelines
 
-## 📂 Featured Projects
+🔄 Workflow Orchestration
 
-### 🔹 ETL Validation Automation
-- [ETL Validation](https://github.com/vitorialrdias/ETL-Validation)  
-  → Automated data validation between environments
-  
-### 🔹 Data Pipeline & Automation
-- [Automation extract data](https://github.com/vitorialrdias/ProjetoEmendasParlamentares)  
-  → Automated data extraction and ingestion pipeline
+📊 Data Modeling
 
-### 🔹 Data Processing with Python
-- [Generate PDF with Python](https://github.com/vitorialrd/python)  
-  → Data processing and document generation
+🚀 Automation
 
-### 🔹 Data Visualization
-- [Power BI challenge](https://github.com/vitorialrdias/dio-desafio-power-bi)  
-  → Dashboard development and business insights
+🤖 AI for Data Engineering
+
+🧠 Machine Learning Fundamentals
+
+✨ Data Lakehouse Architecture
 
 ---
 
-## 📈 Current Focus
+# 🛠 Tech Stack
 
-- 🔸 Improving **data architecture in cloud environments**  
-- 🔸 Building **scalable pipelines with PySpark & Airflow**  
-- 🔸 Applying **best practices in Data Engineering**  
-- 🔸 Exploring **Data Lakehouse concepts**  
+## 👩‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java"/>
+</p>
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+</p>
+
+## ⚙️ Data Engineering
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,mysql,snowflake,sqlserver"/>
+</p>
+
+<p>
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</p>
 
 ---
 
-## 🌎 Beyond Tech
+# 📂 Featured Projects
 
-Outside of technology, I enjoy:
-- 🎬 Movies  
-- 🌿 Exploring new places  
-- 🍽️ Restaurants and cultural experiences  
+### 🚀 ETL Validation
+
+Automated validation between data environments.
+
+🔗 https://github.com/vitorialrdias/ETL-Validation
 
 ---
 
-## 🤝 Let’s Connect!
+### ☁️ Parliamentary Data Pipeline
 
-Always open to:
-- Data Engineering opportunities  
-- Cloud & Data projects  
-- Knowledge sharing  
+Automated extraction, transformation and loading of public datasets.
+
+🔗 https://github.com/vitorialrdias/ProjetoEmendasParlamentares
+
+---
+
+### 🐍 Python Automation
+
+Data processing and automated PDF generation.
+
+🔗 https://github.com/vitorialrd/python
+
+---
+
+### 📊 Power BI Dashboard
+
+Interactive dashboards for business intelligence.
+
+🔗 https://github.com/vitorialrdias/dio-desafio-power-bi
+
+---
+
+# 🤖 Studying Artificial Intelligence
+
+I'm currently studying AI technologies focused on modern data platforms, including:
+
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 📄 Vector Databases
+- 🧩 LLM Applications
+- 📊 AI-powered Analytics
+- ⚡ AI for Data Pipelines
+- ☁️ MLOps Fundamentals
+- 🚀 AI Agents for Data Engineering
+
+My goal is to combine **Data Engineering** with **Artificial Intelligence** to build smarter, scalable, and automated data solutions.
+
+---
+
+# 🌱 Beyond Tech
+
+When I'm away from the keyboard...
+
+🎬 Watching movies
+
+🌿 Exploring nature
+
+🍽️ Discovering new restaurants
+
+📚 Reading about AI & Data
+
+✈️ Traveling whenever possible
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to:
+
+✨ Data Engineering Opportunities
+
+☁️ Cloud Projects
+
+🤖 AI & Data Collaborations
+
+🚀 Open Source
+
+Knowledge Sharing
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00C9A7&height=120&section=footer"/>
+
+</div>
