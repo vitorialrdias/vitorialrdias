@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmppdHVkODNieGdxdjVjbHpiemU5OWV5ZG9mZjcwbGptMTB5cHMxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
 
 ### ☕ Turning coffee into data pipelines since 2022
 
