@@ -56,6 +56,10 @@ My experience includes designing **end-to-end data architectures**, from ingesti
 
 ## 📂 Featured Projects
 
+### 🔹 ETL Validation Automation
+- [ETL Validation](https://github.com/vitorialrdias/ETL-Validation)  
+  → Automated data validation between environments
+  
 ### 🔹 Data Pipeline & Automation
 - [Automation extract data](https://github.com/vitorialrdias/ProjetoEmendasParlamentares)  
   → Automated data extraction and ingestion pipeline
